@@ -16,7 +16,7 @@ describe Person do
       :handed => "lefty",
       :complexion => "decent",
       :t_shirt_size => "medium",
-      :wrist_size => "small",
+      :t_shirt_size => "small",
       :glove_size => "normal",
       :pant_length => "32",
       :pant_width => "32"
